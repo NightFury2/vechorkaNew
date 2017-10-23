@@ -1,0 +1,11 @@
+{
+  "PORT": "3030",
+  "HOST": "3030",
+  "security": {
+        "tokenLife" : 3600
+    },
+  "mongoose": {
+      "uri": "mongodb://127.0.0.1:27017/vechorkaTest"
+  },
+  "secret": "ilovescotchyscotch"
+}
